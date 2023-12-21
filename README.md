@@ -1,7 +1,7 @@
 ### Emogramme
 
 # init new local build
-git remote add origin https://github.com/Kiol-Ice/Kiol-Ice.github.io.git
+git remote add origin https://github.com/Kiol-Ice/Kiol-Ice.github.io.git\n
 git branch --set-upstream-to=origin/master master
 
 # erase actual build
