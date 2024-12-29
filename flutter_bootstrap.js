@@ -57,7 +57,7 @@ document.head.appendChild(style);
 // Flutter loader logic
 _flutter.loader.load({
   serviceWorkerSettings: {
-    serviceWorkerVersion: '"3756865957"',
+    serviceWorkerVersion: '"1429517590"',
   },
   onEntrypointLoaded: async function (engineInitializer) {
     const appRunner = await engineInitializer.initializeEngine();
