@@ -35400,7 +35400,7 @@ if(r.yz(s))r.Jv(s)
 return A.al7(q,new A.bA(B.kt,A.H4(A.a([A.afe(A.alg(new A.kC(new A.a2f(p,new A.by(q,o)),q),q,q),1)],t.E),B.a8,B.aF,B.aG,0),q),q,q)}}
 A.a2f.prototype={
 $2(a,b){var s,r,q,p=null,o=b.b,n=o>600?240:(A.cl(a,p,t.w).w.a.a-120)/2,m=o<300,l=m?10:14,k=m?16:32
-m=A.ek("Voici vos r\xe9sultats du test de l'\xe9mogramme :",p,p,A.eQ(p,p,p,p,p,p,p,p,p,p,p,l,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p)
+m=A.ek("Voici vos r\xe9sultats de L' EMOTI-TEST :",p,p,A.eQ(p,p,p,p,p,p,p,p,p,p,p,l,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p)
 s=this.a
 r=$.rL()
 q=t.E
@@ -35581,7 +35581,7 @@ $0(){this.a.a.a8i(this.b)},
 $S:0}
 A.Fq.prototype={
 N(a){var s=$.aoM()
-return new A.vq(A.aP(["/",new A.a_q(),"/resultat",new A.a_r()],t.N,t.Ab),"/","Test de l'\xe9mogramme",s.a,!1,null)}}
+return new A.vq(A.aP(["/",new A.a_q(),"/resultat",new A.a_r()],t.N,t.Ab),"/","EMOTI-TEST",s.a,!1,null)}}
 A.a_q.prototype={
 $1(a){return B.DO},
 $S:288}
